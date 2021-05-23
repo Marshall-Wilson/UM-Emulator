@@ -1,0 +1,15 @@
+add-limit.um
+add.um
+div.um
+halt-verbose.um
+halt.um
+hello.um
+input.um
+load-print.um
+load-prog.um
+load-store.um
+map-unmap.um
+mov.um
+mult.um
+nand.um
+print-six.um
