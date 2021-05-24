@@ -27,6 +27,7 @@ The UM takes in one program file in the .um executable binary file format and ex
 
 ##Demo
 The following gif shows the UM performing several operations on an RPN calculator app I coded in the .um assembly language for a later project. 
+![UM Demo](https://github.com/Marshall-Wilson/UM-Emulator/blob/main/um-demo.gif)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * 
 
